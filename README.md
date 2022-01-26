@@ -51,5 +51,6 @@ Additional methods are added to map keys with values.
 
 **Train** (C++) - Sample of C++ code, lets user traverse through cars in a train by utilizing pointers.
 
+Note that while this is mostly original code, it is part of a smaller assignment and is an addition to a class code file.
 
 
