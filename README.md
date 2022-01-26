@@ -1,6 +1,6 @@
 # CSCI-1913
 
-There is a description of each project below, along with which the classes they contain.
+There is a description of each project below, along with which classes they contain.
 
 **Perte De Temps** - (Java) Allows the user to play the card game Perte De Temps, which is "time waster" in french. Utilizes arrays and linked stacks.
 
